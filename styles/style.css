@@ -609,7 +609,7 @@
 .our-services {
     width: 100%;
     background-color: transparent;
-    background-image: url("images/farm.jpeg");
+    background-image: url("../images/farm.jpeg");
   /*  background-image: url("/Users/darshansuthar/Desktop/Learning/Skytech/Day-4/AGRUCO/images/farm.jpeg");*/
     height: 1081px;
     background-repeat: no-repeat;
